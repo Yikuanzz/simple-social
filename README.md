@@ -1,6 +1,6 @@
 # Yikuanzz-Social 社交系统
 
-<div style="text-align: center;">
+<div align="center">
   <img src="docs/imgs/logo.png" alt="Logo">
 </div>
 
